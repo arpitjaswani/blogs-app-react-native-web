@@ -1,0 +1,8 @@
+
+    // "babel-jest": "24.9.0",
+    // "jest": "24.9.0",
+
+
+//"start": "node node_modules/react-native/local-cli/cli.js start",
+
+    "android": "npm run start && npm run install",
