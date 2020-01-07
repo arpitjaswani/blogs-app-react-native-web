@@ -14,7 +14,7 @@ Note:- To run the project with functionality, please run the server first.
 
 
 It is basically a react native + web app, which does works on both mobile device and browser.
-"code once render everywhere"
+"code once, render everywhere"
 
 Step 1: please install all the dependencies run "npm i"
 Step 2: please provide API Host on which server running in "./src/config/config.js":
